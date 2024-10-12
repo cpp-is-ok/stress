@@ -1,0 +1,6 @@
+{
+    "SOLUTION": "./A",
+    "CORRECT": "./C",
+    "GENERATOR": "python3 gen.py",
+    "TESTS_AMOUNT": 100
+}
